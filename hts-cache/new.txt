@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:00:11	105/105	---M-Z	200	added ('OK')	text/plain	etag:%22980af01248c0f07d30a04cdf794f805a%22	https://easygoing-work-569812.framer.app/robots.txt		(from )
+17:00:12	539255/539255	---M-Z	200	added ('OK')	text/html	etag:%2204b743c28fee4fbc5c27a38e9b8a9ef6%22	https://easygoing-work-569812.framer.app/	/Users/phanan/websites/techforvietnam/easygoing-work-569812.framer.app/index.html	(from )
