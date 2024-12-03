@@ -1,4 +1,4 @@
-HTTrack3.49-2 launched on Tue, 03 Dec 2024 17:53:31 at https://easygoing-work-569812.framer.app/
+HTTrack3.49-2 launched on Tue, 03 Dec 2024 18:20:53 at https://easygoing-work-569812.framer.app/
 (winhttrack https://easygoing-work-569812.framer.app/ -O "/Users/phanan/websites/techforvietnam" -%v )
 
 Information, Warnings and Errors reported for this mirror:
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 4 links scanned, 3 files written (1101559 bytes overall) [117785 bytes received at 29446 bytes/sec], 1101664 bytes transferred using HTTP compression in 4 files, ratio 10%
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 4 links scanned, 3 files written (1101826 bytes overall) [117895 bytes received at 29473 bytes/sec], 1101931 bytes transferred using HTTP compression in 4 files, ratio 10%
 (No errors, 0 warnings, 0 messages)
