@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:38:38	105/105	U-----	200	untouched ('OK')	text/plain	etag:%22980af01248c0f07d30a04cdf794f805a%22	https://easygoing-work-569812.framer.app/robots.txt		(from )
+15:38:38	489746/489746	U--M-Z	200	updated ('OK')	text/html	etag:%22a0ecbd7dbeef3e19292dd9cbcac0053a%22	https://easygoing-work-569812.framer.app/	easygoing-work-569812.framer.app/index.html	(from )
+15:38:39	310343/310343	U--M-Z	200	updated ('OK')	text/html	etag:%2251ffc3305fc10d8716bfe24e4f221dc0%22	https://easygoing-work-569812.framer.app/pm-training	easygoing-work-569812.framer.app/pm-training.html	(from https://easygoing-work-569812.framer.app/)
+15:38:39	304278/304278	U--M-Z	200	updated ('OK')	text/html	etag:%225e627c198ed382c3521a3b4f2fa8058d%22	https://easygoing-work-569812.framer.app/napkin	easygoing-work-569812.framer.app/napkin.html	(from https://easygoing-work-569812.framer.app/)
